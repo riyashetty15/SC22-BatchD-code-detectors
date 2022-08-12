@@ -120,5 +120,5 @@
 {"cell_type":"markdown","id":"fba9f2","input":"Whenever the computer sees the function being used, it automatically runs the code stored inside of that function.","metadata":{"id":"GTZ6ePf4QPSQ"},"pos":62,"type":"cell"}
 {"cell_type":"markdown","id":"fbd193","input":"Next, we'll take a look at while loops. In general, you can make a while loop do anything that a for loop can do but with slightly different syntax, so if you find youself understanding while loops better than for loops, you can just focus on using while loops. ","metadata":{"id":"Del5jaQ2QPSN"},"pos":41,"type":"cell"}
 {"cell_type":"markdown","id":"fddd40","input":"Create a few boolean variables here, then try to add them together, subtract them, multiply them and divide them to see what happens. You may get an error, and thats okay. Its important to know what can and can't be done with a type of data.","metadata":{"id":"9FNdxSh_QPSH"},"pos":20,"type":"cell"}
-{"id":0,"time":1659982321828,"type":"user"}
+{"id":0,"time":1660065699546,"type":"user"}
 {"last_load":1660053862838,"type":"file"}

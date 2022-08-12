@@ -1,0 +1,11 @@
+names:
+- SMG
+- handgun
+- knife
+- rifle
+- rilfe
+- shotgun
+- sniper
+nc: 7
+train: Weapon-Detection-5/train/images
+val: Weapon-Detection-5/valid/images
